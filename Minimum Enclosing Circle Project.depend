@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605103514 source:c:\users\enbiy\documents\c projects\minimum enclosing circle project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<graphics.h>
+
